@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=liam-i&color=E8733A&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/liam-i?label=Followers&style=flat-square&logo=github&color=555555)](https://github.com/liam-i)
+[![GitHub followers](https://img.shields.io/badge/Followers-26-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/liam-i)
 [![Blog](https://img.shields.io/badge/Blog-liam--i.github.io-4A6FA5?style=flat-square&logo=rss&logoColor=white)](https://liam-i.github.io)
 
 </div>
