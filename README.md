@@ -6,9 +6,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=liam-i&color=FA7343&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=liam-i&color=E8733A&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/liam-i?label=Followers&style=flat-square&logo=github&color=555555)](https://github.com/liam-i)
-[![Blog](https://img.shields.io/badge/Blog-liam--i.github.io-555555?style=flat-square&logo=github-pages&logoColor=white)](https://liam-i.github.io)
+[![Blog](https://img.shields.io/badge/Blog-liam--i.github.io-4A6FA5?style=flat-square&logo=rss&logoColor=white)](https://liam-i.github.io)
 
 </div>
 
@@ -27,16 +27,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/tvOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
-  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-5C8CF0?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-1C1C1E?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/tvOS-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-1C1C1E?style=for-the-badge&logo=macos&logoColor=white" />
+  <img src="https://img.shields.io/badge/visionOS-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-2F7FEA?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CocoaPods-C0392B?style=for-the-badge&logo=cocoapods&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift_Package_Manager-E8733A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-D9553D?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
