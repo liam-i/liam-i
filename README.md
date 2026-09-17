@@ -91,14 +91,14 @@
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liam-i&show_icons=true&icon_color=FA7343&text_color=718096&bg_color=00000000&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liam-i&layout=compact&hide_border=true&bg_color=00000000&text_color=718096" />
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=liam-i&show_icons=true&icon_color=FA7343&text_color=718096&bg_color=00000000&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=liam-i&layout=compact&hide_border=true&bg_color=00000000&text_color=718096" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=liam-i&bg_color=00000000&color=718096&line=FA7343&point=FA7343&area=true&hide_border=true" />
+  <img width="100%" src="https://ghchart.rshah.org/FA7343/liam-i" alt="liam-i's GitHub contribution chart" />
 </div>
 
 <br/>
